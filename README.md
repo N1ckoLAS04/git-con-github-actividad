@@ -13,7 +13,7 @@ mi Github: <a target="_blank" href="https://github.com/lucaszhh">lucaszhh</a>
 ## Pasos para crear tu primer repositorio
 1. Instalación de Git: Antes de comenzar, asegúrate de tener Git instalado en tu sistema. Puedes descargar Git desde aquí e instalarlo siguiendo las instrucciones correspondientes a tu sistema operativo.
 
-2. Creación del repositorio: Para crear tu primer repositorio, sigue estos pasos:
+2. Creación del repositorio: Para crear tu primer repositorio, sigue estos pasos:#pipicucuuuu
 
 * Abre la terminal o consola de Bash.
 * Navega hasta la ubicación donde deseas crear tu repositorio.
